@@ -17,3 +17,9 @@
   <a href = "mailto:rodriguesgabriella80@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/devgaab/devgaab/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
